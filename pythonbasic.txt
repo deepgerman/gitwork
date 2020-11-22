@@ -1,0 +1,3 @@
+this is basic file for python
+it will cover
+all basic things of python
