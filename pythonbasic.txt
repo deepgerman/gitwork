@@ -1,3 +1,6 @@
+hello world 
+this is deepak srivatsav
+i am giving this information through my github account
 this is basic file for python
 it will cover
 all basic things of python
